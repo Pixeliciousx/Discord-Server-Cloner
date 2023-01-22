@@ -1,7 +1,3 @@
-# Discord-Server-Cloner
-
-I made this for fun!
-
 ## What Does It Clone?
 - [x] Clone Channels
 - [x] Channel Permissions
