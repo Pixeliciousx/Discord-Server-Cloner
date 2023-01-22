@@ -1,4 +1,4 @@
-<a href="https://repl.it/github/alist-org/alist-replit">
+<a href="https://repl.it/github/Pixeliciousx/Discord-Server-Cloner">
   <img alt="Run on Repl.it" src="https://repl.it/badge/github/Pixeliciousx/Discord-Server-Cloner" style="height: 40px; width: 190px;" />
 </a>
 
