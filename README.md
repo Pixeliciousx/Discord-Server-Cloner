@@ -9,11 +9,11 @@ for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==vo
 ```
 
 ## How Do I Run This?
-1.) run ``pip install -r requirements.txt`` in terminal
-2.) run ``run main.py``
-3.) input your token
-4.) input the guild you wish to copy
-5.) input the guild your copying to
+1.) run ``pip install -r requirements.txt`` in terminal <br>
+2.) run ``run main.py``<br>
+3.) input your token <br>
+4.) input the guild you wish to copy <br>
+5.) input the guild your copying to <br>
 
 ## What Does It Clone?
 - [x] Clone Channels
