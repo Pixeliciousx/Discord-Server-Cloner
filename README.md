@@ -2,6 +2,9 @@
   <img alt="Run on Repl.it" src="https://repl.it/badge/github/Pixeliciousx/Discord-Server-Cloner" style="height: 40px; width: 190px;" />
 </a>
 
+## How Do I Run This?
+1.) run ``pip install -r requirements.txt`` in terminal
+
 ## What Does It Clone?
 - [x] Clone Channels
 - [x] Channel Permissions
